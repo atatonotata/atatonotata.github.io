@@ -52,16 +52,21 @@ a:active {
   margin-bottom: 70px;
 }
 .section-title h2 {
-  text-transform: uppercase;
+/*  text-transform: uppercase;
   font-size: 28px;
-  font-weight: 600;
+  font-weight: 600;*/
+  text-transform: uppercase;
+  font-size: 52px;
+  font-weight: 100;
+  line-height: 1.4;
+  color: #78c0b6;
 }
 .section-title p {
   font-family: 'Volkhov', serif;
   font-style: italic;
   color: #666;
 }
-/*-- 
+/*--
 	Header Start
 --*/
 header {
@@ -73,13 +78,18 @@ header .navbar {
   border: 0px;
 }
 header .navbar-header {
-  height: auto;
+  height: 50px;
   display: flex;
-  flex-direction: flex-end;
 }
 header .navbar-brand {
-  padding-top: 5px;
-  font-size: 22px;
+  font-size: 39px;
+  font-weight: 300;
+  color: #515fa5 !important;
+  height: auto;
+  padding: 0;
+  margin: auto;
+  float: none;
+  margin-left: 0px !important;
 }
 header .navbar-default {
   background: none;
@@ -289,18 +299,29 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 50px;
   color: #7B7B7B;
 }
+#testimonial .counter-box {
+  display: flex;
+  justify-content: space-between;
+}
 #testimonial .counter-box li {
-  width: 50%;
+/*  width: 50%;
   float: left;
   text-align: center;
-  margin: 30px 0 30px;
+  margin: 30px 0 30px;*/
+  text-align: center;
+  margin: 30px 0 30px;  
 }
 #testimonial .counter-box li i {
   font-size: 35px;
 }
 #testimonial .counter-box li h4 {
-  font-size: 30px;
-  font-weight: bold;
+    font-size: 46px;
+    font-weight: bold;
+    color: white;
+    background: #77c0b6;
+    width: 250px;
+    display: block;
+    padding: 10px 30px;
 }
 #testimonial .counter-box li span {
   color: #555;
@@ -349,6 +370,18 @@ font header .navbar-default .navbar-nav li a:hover {
   display: inline-block;
   border: 0px;
 }
+
+
+.counter-icon {
+    max-width: 170px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.counter-icon img {
+  width: 100%;
+}
+
 /*--
 	features Start
 --*/
