@@ -112,14 +112,12 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
   Slider Start
 --*/
-#slider {
-  
+#slider,
+.slider {
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
   background-color: black;
-  /*padding: 200px 0 280px 0;*/
-  
   padding: 220px 0 300px 0;
   position: relative;
 }
@@ -145,7 +143,8 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 
-#slider:before {
+#slider:before,
+.slider:before {
   content: "";
   position: absolute;
   left: 0;
@@ -158,10 +157,12 @@ font header .navbar-default .navbar-nav li a:hover {
   background: linear-gradient(to left, #8b86a366, #322e4066);
   opacity: 0.8;
 }
-#slider .block {
+#slider .block,
+.slider .block {
   color: #E3E3E4;
 }
-#slider .block h1 {
+#slider .block h1,
+.slider .block h1 {
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
   font-size: 45px;
@@ -169,7 +170,8 @@ font header .navbar-default .navbar-nav li a:hover {
   /*letter-spacing: 10px;*/
   padding-bottom: 45px;
 }
-#slider .block p {
+#slider .block p,
+.slider .block p {
   font-size: 23px;
   line-height: 40px;
   font-family: 'Roboto', sans-serif;
@@ -290,7 +292,8 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
   Feature Start
 --*/
-#feature {
+#feature,
+#contact {
   /*background: url("../img/featue-bg.jpg");*/
   background-position: 50% 94px;
   width: 100%;
@@ -312,17 +315,20 @@ font header .navbar-default .navbar-nav li a:hover {
   backface-visibility: hidden;
   padding: 100px 0;
 }
-#feature h2 {
+#feature h2,
+#contact h2 {
   font-size: 48px;
   font-weight: 100;
   margin-bottom: 30px;
 }
-#feature p {
+#feature p,
+#contact p {
   font-size: 18px;
   line-height: 1.8;
   margin-bottom: 20px;
 }
-#feature .btn-view-works {
+#feature .btn-view-works,
+#contact .btn-view-works {
   background: #655E7A;
   color: #fff;
   padding: 10px 20px;
@@ -442,7 +448,7 @@ font header .navbar-default .navbar-nav li a:hover {
   Slider-work Start
 --*/
 #global-header {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  /*background: url("../img/slider-bg.jpg") no-repeat;*/
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -470,7 +476,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #global-header .block h1 {
   font-weight: 100;
   font-size: 45px;
-  letter-spacing: 6px;
+  /*letter-spacing: 6px;*/
   padding-bottom: 15px;
   margin-top: 0;
   text-transform: capitalize;
@@ -479,7 +485,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 16px;
   font-weight: 300;
   /*letter-spacing: 1px;*/
-  word-spacing: 3px;
+  /*word-spacing: 3px;*/
 }
 /*--
   portfolio-work Start
@@ -728,7 +734,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   /*letter-spacing: 1px;*/
-  word-spacing: 3px;
+  /*word-spacing: 3px;*/
 }
 /*--
   contact-form Start
@@ -771,6 +777,15 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
   wrapper-contact Start
 --*/
+.address-block {
+  font-size: 18px;
+}
+
+.address-block a {
+  text-decoration: none;
+  color: white;
+}
+
 .address-block li {
   margin-bottom: 20px;
 }
@@ -889,3 +904,18 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #000;
 }
+
+
+.less-talk-icon {
+  position: absolute;
+  top: 0;
+  padding: 54px;
+  left: 0;
+  height: 100%;
+  width: 50%;
+  text-align: center;
+}
+
+
+
+

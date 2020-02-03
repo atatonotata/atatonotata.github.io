@@ -1,21 +1,68 @@
-/*		Default Layout: 992px. 
-		Gutters: 24px.
-		Outer margins: 48px.
-		Leftover space for scrollbars @1024px: 32px.
--------------------------------------------------------------------------------
-cols    1     2      3      4      5      6      7      8      9      10
-px      68    160    252    344    436    528    620    712    804    896    */
-/*		Tablet Layout: 768px.
-		Gutters: 24px.
-		Outer margins: 28px.
-		Inherits styles from: Default Layout.
------------------------------------------------------------------
-cols    1     2      3      4      5      6      7      8
-px      68    160    252    344    436    528    620    712    */
+@media only screen and (max-width: 767px) {
+  #service,
+  #testimonial {
+    padding-top: 50px !important;
+  }
+
+  #slider .block h1 {
+    font-size: 36px !important;
+  }
+
+  #slider {
+    padding-top: 50px !important;
+    padding-bottom: 75px !important;
+  }  
+  
+  #slider .block p {
+    font-size: 18px !important;
+    line-height: 1.8 !important;
+  }  
+
+  #testimonial .counter-box {
+    display: block;
+  }
+  .section-title h2 {
+    font-size: 36px;
+  }
+  .row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  #service .service-item h4 {
+    margin-bottom: 10px;
+    margin-top: 0px;
+  }
+  #testimonial .counter-box li {
+    margin: 0px 0px 30px;
+  }
+
+  #testimonial .counter-box li:nth-child(even) {
+    /*margin: 0px 0px 30px;*/
+    margin-top: 100px;
+  }
+
+  #testimonial .counter-box li h4 {
+    width: 100%;
+  }
+  .counter-box li {
+    display: block;
+  }
+  .less-talk-icon {
+    display: none;
+  }
+  .navbar-toggle {
+    display: none;
+  }
+  .counter-icon {
+    margin-bottom: 0px;
+  }
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  /*---------------------------------------------
-					Index Start 
------------------------------------------------*/
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
   /*--
 	wrapper Start 
 --*/
@@ -175,17 +222,21 @@ px      68    160    252    */
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  #slider {
+  #slider,
+  .slider {
     padding-top: 90px;
     padding-bottom: 100px;
   }
-  #slider .block {
+  #slider .block,
+  .slider .block {
     padding-left: 0px;
   }
-  #slider .block h1 {
+  #slider .block h1,
+  .slider .block h1 {
     font-size: 20px;
   }
-  #slider .block p {
+  #slider .block p,
+  .slider .block p {
     font-size: 13px;
   }
   /*--
@@ -242,7 +293,7 @@ px      68    160    252    */
   /*--
 	features Start 
 --*/
-  #features .features-img {
+  #features .features-img, {
     text-align: center;
   }
   /*---------------------------------------------
