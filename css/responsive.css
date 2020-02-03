@@ -4,16 +4,19 @@
     padding-top: 50px !important;
   }
 
-  #slider .block h1 {
+  #slider .block h1,
+  .slider .block h1 {
     font-size: 36px !important;
   }
 
-  #slider {
+  #slider,
+  .slider {
     padding-top: 50px !important;
     padding-bottom: 75px !important;
   }  
   
-  #slider .block p {
+  #slider .block p,
+  .slider .block p {
     font-size: 18px !important;
     line-height: 1.8 !important;
   }  
