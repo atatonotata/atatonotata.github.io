@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 <!-- Slider Start -->
-<section id="global-header">
+<!-- <section id="global-header">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -15,13 +15,28 @@ permalink: /blog/
       </div>
     </div>
   </div>
-</section>
-{% for post in site.posts %}
-<div class="post-area">
-  <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
-  <p class="post-date">{{ post.date | date_to_long_string }}</p>
-  <p>
-    {{ post.content | strip_html | truncatewords: 50 }}
-  </p>
+</section> -->
+
+<div class="blog-wrapper">
+
+  {% for post in site.posts %}
+  <a href="{{ post.url | prepend: site.baseurl }}" class="post-clicker">
+    <div class="post-area">
+      <div class="post-thumb">
+        <img src="{{ post.image }}" />
+      </div>
+      <div class="post-thumb-content">
+        <div class="post-title">{{ post.title }}</div>
+        <p class="post-date">{{ post.date | date_to_long_string }}</p>
+        <p>
+          <!-- {{ post.content | strip_html | truncatewords: 50 }} -->
+          {{ post.excerpt | strip_html | truncatewords: 50 }}
+        </p>
+        <div class="read-more">Les mer...</div>
+      </div>
+
+    </div>
+  </a>
+  {% endfor %}
+
 </div>
-{% endfor %}
