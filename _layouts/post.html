@@ -32,7 +32,7 @@ layout: page
     </div>
     <div class="post-thumb-content">
       <div class="post-title">{{ page.title }}</div>
-      <p class="post-date">{{ page.date | date_to_long_string }}</p>
+      <p class="post-date">By: {{ page.author }} | {{ page.date | date_to_long_string }}</p>
       <p>
         {{ content }}
       </p>
