@@ -19,9 +19,24 @@ It's also a bit of a throwback for me to visit StartupLab, as I used to have a d
 
 Of all the pitches I saw on stage, there are a few companies that I'd like to mention:
 
-• Poption
+## Poption
+As far as HR-tech goes I quite like this company for it's simplicity, and unlike many other startups that creates a product hoping that there will be a market waiting for them in the other end, Poption seems to be doing fine already.
 
-• 
+The product is basically a form with a simple CMS behind it, designed for companies to collect student information when they are out visiting campuses or job fairs. Structuring this data enables companies to measure ROI way more efficiently, which is simply brilliant.
+
+Check out their website here: <a href="https://www.poption.com/" target="_blank">https://www.poption.com/</a>
+
+## ByteNet
+I've seen a lot of companies trying to save Africa with some sort of technology. My problem with many of these companies is the obvious capitalist silver lining, with the clear goal to establish a billion dollar business by selling microservices to the poorest of the poor. (No intentional reference to <a href="https://eversend.co/" target="_blank">Eversend</a>, the winner at SLUSH this year).
+
+However, ByteNet is a very ambitious mesh-net project designed to spread internet connectivity in developing countries trough existing WiFi nodes, such as telephones. This is some seriously high tech stuff, which I'm all about, and I have no doubt that this team will be able to deliver.
+
+---
+
+I simply cannot wait to see what's up at the StartupLab Winter Pitch Party next year!
+
+
+
 
 
 
