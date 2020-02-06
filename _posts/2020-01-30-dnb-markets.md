@@ -21,6 +21,6 @@ To summarise you could say that DnB is banking on the assumption that Trump will
 
 There was absolutely no focus on Norwegian industry or local investment opportunities. There was also no talk about tech, startups or anything sustainable, which I thought was a shame.
 
-While DnB is spending their efforts trying to recruit more female investors by stealing the concept (and hashtag) of the SHE conference, I would have preferred to see them make an effort to influence their existing customers to diversify their portfolios in order to stimulate local growth. Because, after this seminar, instead of contributing to the local economy, a bunch of old while males will put their money where they are "war safe", such as Lockheed Martin or Kongsberg Gruppen.
+While DnB is spending their efforts trying to recruit more female investors by stealing the concept (and hashtag) of the SHE conference, I would have preferred to see them make an effort to influence their existing customers to diversify their portfolios in order to stimulate local growth instead. Because, after this seminar, instead of contributing to the local economy, a bunch of old while males will put their money where they are "war safe", such as Lockheed Martin or Kongsberg Gruppen.
 
 Either way, we are doomed.
