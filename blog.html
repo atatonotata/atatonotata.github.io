@@ -7,41 +7,44 @@ permalink: /blog/
 <div class="blog-wrapper">
 
   {% for post in site.posts %}
-  <a href="{{ post.url | prepend: site.baseurl }}" class="post-clicker">
     <div class="post-area">
-      <div class="post-thumb">
-        <img src="{{ post.image }}" />
-      </div>
-      <div class="post-thumb-content">
-        <div class="post-title">{{ post.title }}</div>
-        <p class="post-date">
-          <span>
-            {{ post.date | date_to_long_string }}
-          </span>
-          <span> | </span>
-          {% if post.email %}
-            <a href="mailto:{{post.email}}">
-              {{ post.author }}
-            </a>
-          {% else %}
-            <span>{{ post.author }}</span>
-          {% endif %}
-
-          {% if post.twitter %}
-          <span> | </span>
-          <a href="https://twitter.com/{{post.twitter}}" target="_blank">
-            <i class="fab fa-twitter"></i>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-clicker">
+          <div class="post-thumb">
+            <img src="{{ post.image }}">
+          </div>
+        </a>
+        <div class="post-thumb-content">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-clicker">
+            <div class="post-title">{{ post.title }}</div>
           </a>
-          {% endif %}
-        </p>
-        <p>
-          {{ post.excerpt }}
-        </p>
-        <div class="read-more">More [+]</div>
-      </div>
+          <p class="post-date">
+            <span>
+              {{ post.date | date_to_long_string }}
+            </span>
+            <span> | </span>
+            {% if post.email %}
+              <a href="mailto:{{post.email}}">
+                {{ post.author }}
+              </a>
+            {% else %}
+              <span>{{ post.author }}</span>
+            {% endif %}
 
+            {% if post.twitter %}
+            <span> | </span>
+            <a href="https://twitter.com/{{post.twitter}}" target="_blank">
+              <i class="fab fa-twitter"></i>
+            </a>
+            {% endif %}
+          </p>
+          <p>
+            {{ post.excerpt }}
+          </p>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-clicker">
+            <div class="read-more">More [+]</div>
+          </a>
+        </div>
     </div>
-  </a>
   {% endfor %}
 
 </div>
