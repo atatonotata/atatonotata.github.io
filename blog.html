@@ -3,19 +3,6 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
-<!-- Slider Start -->
-<!-- <section id="global-header">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <h1>Hold deg oppdatert på vårt arbeid i Startup-miljøet</h1>
-          <p>Catch up with us, anytime and anywhere</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section> -->
 
 <div class="blog-wrapper">
 
@@ -27,13 +14,30 @@ permalink: /blog/
       </div>
       <div class="post-thumb-content">
         <div class="post-title">{{ post.title }}</div>
-        <p class="post-date">{{ post.date | date_to_long_string }}</p>
+        <p class="post-date">
+          <span>
+            {{ post.date | date_to_long_string }}
+          </span>
+          <span> | </span>
+          {% if post.email %}
+            <a href="mailto:{{post.email}}">
+              {{ post.author }}
+            </a>
+          {% else %}
+            <span>{{ post.author }}</span>
+          {% endif %}
+
+          {% if post.twitter %}
+          <span> | </span>
+          <a href="https://twitter.com/{{post.twitter}}" target="_blank">
+            <i class="fab fa-twitter"></i>
+          </a>
+          {% endif %}
+        </p>
         <p>
-          <!-- {{ post.content | strip_html | truncatewords: 50 }} -->
-          <!-- {{ post.excerpt | strip_html | truncatewords: 50 }} -->
           {{ post.excerpt }}
         </p>
-        <div class="read-more">Les mer...</div>
+        <div class="read-more">More [+]</div>
       </div>
 
     </div>
