@@ -925,3 +925,22 @@ footer .footer-manu ul li a:hover {
   }
 }
 
+.header-buttons {
+  position: absolute;
+  bottom: 5px;
+  right: 0;  
+}
+
+.header-buttons a,
+.header-buttons a:hover,
+.header-buttons a:active,
+.header-buttons a:visited {
+  color: #666;
+  cursor: pointer;
+}
+
+.header-buttons div {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 20px;
+}
