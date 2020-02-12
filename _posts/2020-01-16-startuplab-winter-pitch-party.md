@@ -11,7 +11,7 @@ email: jorgen@ataton.no
 date: 2020-01-16 23:00:00
 ---
 
-There is no better way to start of the year than celebrating StartupLab's 5th annual Winter Pitch Party. It is hands down one of the best events in the Oslo scene, and is always something to look forward to.
+There is no better way to start of the year than celebrating <a href="https://startuplab.no/" target="_blank">StartupLab</a>'s 7th annual Winter Pitch Party. It is hands down one of the best events in the Oslo scene, and is always something to look forward to.
 
 The format of the event is fairly standard, albeit surprisingly casual, with 24 fire pitches from nervous entrepreneurs in all sorts of fields, followed by alcohol infused mingling, or networking, or whatever it's called. This year they also replaced the all so standard tower of pizza with a pretty solid taco station. I mean, if it wasn't for the general lack of daylight I would have totally thought I was in California, dropping cold VC cash on some hot startups.
 

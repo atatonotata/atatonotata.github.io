@@ -11,11 +11,11 @@ email: jorgen@ataton.no
 date: 2020-01-29 15:00:00
 ---
 
-For those who don't know TheFactory, let me introduce you to Oslo's FinTech-hub, formerly located at Fornebu, but now situated in the heart of Oslo.
+For those who don't know <a href="https://www.thefactory.no/" target="_blank">TheFactory</a>, let me introduce you to Oslo's FinTech-hub, formerly located at Fornebu, but now situated in the heart of Oslo.
 
-But, before I go on, let me make it clear that TheFactory is _way_ more than just a mere hub, as they are more of an incubator and an accelerator. Heck, they even snatched the price as the best accelerator/incubator program by the Nordic Startup Awards last year, so there is no reason not to have your eyes glued to this hot spot. 
+But, before I go on, let me make it clear that TheFactory is _way_ more than just a mere hub, as they are more of an incubator and an accelerator. Heck, they even snatched the price as <a href="http://nordicstartupawards.com/competition-2019" target="_blank">the best accelerator/incubator program</a> by the Nordic Startup Awards last year, so there is no reason not to have your eyes glued to this hot spot. 
 
-I don't know that much about the inner clockworks of this co-working space, nor am I an expert in financial technology, but I do like the smaller startup-hubs in Oslo, such as this one. They seem to manage to create a campus-like feeling and as well as a real internal culture where magical things like peer-to-peer learning spontaneously occurs. This, you might say, should be obvious for any startup oriented co-working space, but let me tell you, my friend, that strangers talking to each other is _not_ obvious in this glorious kingdom. _(For those uninitiated in scandinavianism it normally takes a barrel of booze for us to muster up the courage to have a conversation with a stranger, though when it finally happens it often ends with sex.)_
+I don't know that much about the inner clockworks of this co-working space, nor am I an expert in financial technology, but I do like the smaller startup-hubs in Oslo, such as this one. They seem to manage to create a campus-like feeling and a real internal culture where magical things like peer-to-peer learning spontaneously occurs. This, you might say, should be obvious for any startup oriented co-working space, but let me tell you, my friend, that strangers talking to each other is _not_ obvious in this glorious kingdom. _(For those uninitiated in scandinavianism it normally takes a barrel of booze for us to muster up the courage to have a conversation with a stranger, though when it finally happens it often ends with sex.)_
 
 To my ignorant mind, up until just a few years ago, I saw FinTech as robots buying and selling stocks on the market at the speed of light, skimming sick profits from micro transactions, a game I thought it would be hard to play as you kind of need a lot of data and processing power for your robot to win the bling.
 
