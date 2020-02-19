@@ -4,7 +4,7 @@ title: StartupLab Winter Pitch Party
 subtitle: Dette er vårt første blogginnlegg
 excerpt: There is no better way to start of the year than by celebrating StartupLab's 7th annual Winter Pitch Party. It is hands down one of the best events in the Oslo scene, and is always something to look forward to.<br/><br/>The format of the event is fairly standard, albeit surprisingly casual, with 24 fire pitches from nervous entrepreneurs in all sorts of fields, followed by alcohol-infused mingling, or networking, or whatever it's called. This year they also replaced the mandatory tower of pizza with a pretty solid taco station. I mean, if it wasn't for the general lack of daylight I would have totally thought I was in California, dropping cold VC cash on some hot startups. 
 categories: intro
-image: /assets/startuplab-winter-pitch-party-2020.png
+image: /assets/startuplab-winter-pitch-party-2020.jpg
 author: Jørgen Ekvoll
 twitter: ekvoll
 email: jorgen@ataton.no

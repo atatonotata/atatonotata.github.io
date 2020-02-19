@@ -4,7 +4,7 @@ title: First Friday Coffee @ <s>StartupLab</s> Oslo Science Park
 subtitle: TODO
 excerpt: Every first Friday of the month <s>StartupLab</s> Oslo Science Park invites for coffee and pitches.<br/><br/>When it comes to entrepreneurship it can be hard to separate Oslo Science Park from StartupLab – especially when it comes to startups. StartupLab is usually responsible for everything startup related in-house, so there might be some confusion when the house invites us to watch startup pitches from StartupLab without StartupLab being involved.
 categories: intro
-image: /assets/holocare-breakfast.png
+image: /assets/holocare-breakfast.jpg
 author: Jørgen Ekvoll
 twitter: ekvoll
 email: jorgen@ataton.no
