@@ -1,4 +1,16 @@
 # MARS
+- name: SHE Conference
+  host: SHE Conference
+  location: Oslo Spektrum
+  address: Sonja Henies plass 2, 0185 Oslo
+  # description: ''
+  date: 05.03.2020
+  time_start: "00:00"
+  time_end: "16:00"
+  type: Conference
+  link: https://www.sheconference.no/
+  free: true
+
 - host: Forskningsparken
   location: Forskningsparken
   address: Gaustadalléen 21
