@@ -1,0 +1,552 @@
+# MARS
+- host: Forskningsparken
+  location: Forskningsparken
+  address: Gaustadalléen 21
+  name: First Friday Coffee
+  # description: ''
+  date: 06.03.2020
+  time_start: "08:30"
+  time_end: "09:00"
+  type: Pitching
+  link: https://www.forskningsparken.no/events/Eventkalender/
+  free: true
+
+- host: Innovasjon Norge
+  location: Innovasjon Norge
+  address: Akersgata 13, 0158 Oslo
+  name: Pitching Tuesday
+  # description: ''
+  date: 10.03.2020
+  time_start: "09:00"
+  time_end: "11:30"
+  type: Pitching
+  link: https://www.innovasjonnorge.no/no/om/kontorer-i-Norge/oslo-akershus-ostfold/arrangementer/
+
+- host: Insj UiO & Patentstyret
+  location: Insj UiO
+  address: Gaustadalléen 21, 0349 Oslo
+  name: Patentstyret - Protecting Your Idea?
+  description: Vi ser etter deg som er genuint opptatt av å skape læringsløsninger som virker og som kan bidra til at færre elever, studenter og arbeidstakere opplever utenforskap. Vi lover deg et døgn med inspirasjon, kreativitet og nye bekjentskaper.
+  date: 10.03.2020
+  time_start: "16:00"
+  time_end: "17:30"
+  type: Seminar
+  link: https://www.facebook.com/events/191145395534471/
+
+- host: Forskningsrådet
+  location: Forskningsrådet
+  address: Forskningsrådet
+  name: Fagdag om impact og kommunikasjon
+  description: |-
+    Velkommen til Forskningsrådets fagdag om impact og kommunikasjon. Økte forventninger til virkninger og effekter av forskning setter kommunikasjon og formidling på nye prøver, men åpner også for muligheter. Samtidig har nye søknadskriterier i Forskningsrådet, hvor blant annet impact er vektlagt, fått virke såpass lenge at det er viktig å få utveklset erfaringer fra et kommunikasjons- og formidlingsperspektiv. I tillegg vektlegger EUs kommende rammeprogram, Horizon Europe, involvering og dialog tydeligere enn før.
+
+    I løpet av dagen vil du få ulike perspektiver på hvordan det står til med impact i Norge i dag og hvordan dette kan sees i et kommunikasjonsperspektiv. Fra Forskningsrådets side skal vi dele våre erfaringer fra arbeidet med nye søknadskriterier, og hvordan tidligere tilbakemeldinger fra kommunikasjonskollegaer i sektoren følges opp. Hvis du har erfaringer og eksempler du gjerne vil dele setter vi stor pris på det. Ta gjerne kontakt med oss på forhånd.
+  date: 11.03.2020
+  time_start: "09:00"
+  time_end: "15:30"
+  type: Conference
+  link: https://www.forskningsradet.no/arrangementer/2020/fagdag-om-impact-og-kommunikasjon/
+
+- host: SoCentral
+  location: SoCentral
+  address: Øvre slottsgate 3
+  name: 'SoMeetup: How can better data literacy fuel innovation'
+  # description: ''
+  date: 12.03.2020
+  time_start: "15:00"
+  time_end: "20:00"
+  type: networking
+  link: https://www.facebook.com/events/607603706757577/
+
+- host: Telia
+  location: Startup Campus
+  address: Christian Krohgs gate 1, 0186 Oslo
+  name: 5G og muligheter for startups
+  # description: ''
+  date: 12.03.2020
+  time_start: "08:00"
+  time_end: "10:00"
+  type: Breakfast seminar
+  link: https://www.facebook.com/events/554829568460552/
+
+- host: Bærum International Hub
+  location: Bærum International Hub
+  address: Fjordveien 1, 1363 Høvik
+  name: 'Startup Failures : How to avoid it'
+  # description: ''
+  date: 12.03.2020
+  time_start: "16:00"
+  time_end: "17:30"
+  type: Seminar
+  link: https://www.facebook.com/events/1472778966222317/
+
+- host: Oslo International Hub & Bærum International Hub
+  location: Ina Bach Art
+  address: Briskebyveien 50, 0259 Oslo
+  name: Wine and Art Int Hub Business Angels
+  # description: ''
+  date: 13.03.2020
+  time_start: "17:00"
+  time_end: "19:00"
+  type: Social
+  link: https://www.facebook.com/events/591343545055757/
+
+- host: Innovasjon Norge
+  location: Innovasjon Norge
+  address: Akersgata 13, 0158 Oslo
+  name: Pitching Tuesday
+  # description: ''
+  date: 17.03.2020
+  time_start: "09:00"
+  time_end: "11:30"
+  type: Pitching
+  link: https://www.innovasjonnorge.no/no/om/kontorer-i-Norge/oslo-akershus-ostfold/arrangementer/
+
+- host: Oslo International Hub & Ina Bach Art
+  location: Bærum International Hub
+  address: Fjordveien 1, 1363 Høvik
+  name: Establishing your own business - Grunnkurs i etablering
+  # description: ''
+  date: 17.03.2020
+  time_start: "10:30"
+  time_end: "13:30"
+  type: Social
+  link: https://www.facebook.com/events/177469710212197/
+
+- host: The Factory
+  location: The Factory
+  name: STARTUP BOARDS VOL. 3
+  address: 3 Nedre Vollgate
+  description: Velkommen til Startup Boards - Vol. 3 - vårt tredje frokostseminar
+    i en serie der vi setter fokus på styrets rolle i startups og scale-ups.
+  date: 17.03.2020
+  time_start: "08:30"
+  time_end: "10:00"
+  type: frokostseminar
+  link: https://www.eventbrite.co.uk/e/startup-boards-vol-3-tickets-90119685405
+
+- host: Startup Campus
+  location: Startup Campus
+  address: Christian Krohgs gate 1, 0186 Oslo
+  name: 'Founding partner series: Benjamin Webb'
+  # description: ''
+  date: 18.03.2020
+  time_start: "08:00"
+  time_end: "10:00"
+  type: Breakfast seminar
+  link: https://www.facebook.com/events/246962406321835/
+
+- host: Innovasjon Norge
+  location: Innovasjon Norge
+  address: Akersgata 13, 0158 Oslo
+  name: Fra idé til marked
+  # description: ''
+  date: 19.03.2020
+  time_start: "09:00"
+  time_end: "11:00"
+  type: Seminar
+  link: https://www.innovasjonnorge.no/no/om/kontorer-i-Norge/oslo-akershus-ostfold/arrangementer/
+
+- host: Innovasjon Norge
+  location: Innovasjon Norge
+  address: Akersgata 13, 0158 Oslo
+  name: Kurs i eksport – slik lykkes du med din vareeksport
+  # description: ''
+  date: 19.03.2020
+  time_start: "09:30"
+  time_end: "15:30"
+  type: Seminar
+  link: https://www.innovasjonnorge.no/no/om/kontorer-i-Norge/oslo-akershus-ostfold/arrangementer/
+  free: false
+
+- host: Innovasjon Norge
+  location: Innovasjon Norge
+  address: Akersgata 13, 0158 Oslo
+  name: Pitching Tuesday
+  # description: ''
+  date: 24.03.2020
+  time_start: "09:00"
+  time_end: "11:30"
+  type: Pitching
+  link: https://www.innovasjonnorge.no/no/om/kontorer-i-Norge/oslo-akershus-ostfold/arrangementer/
+
+- host: Forskningsrådet
+  location: Forskningsrådet
+  address: Radisson Blu Plaza Hotel, Sonja Henies plass 3, Oslo
+  name: Missions på norsk - Kunnskapsgrunnlagskonferansen 2020
+  description: |-
+    Missions i forskning- og innovasjonspolitikken handler å sette ambisiøse, målbare og tidfestede mål for å løse samfunnsutfordringer som angår folk flest, og står sentralt i utformingen av EUs nye rammeprogram, Horizon Europa. En missions-orientert forsknings- og innovasjonspolitikk skal stimulere samspillet mellom ulike sektorer og bidra til at vi får større effekt av offentlige investeringer i forskning og innovasjon.
+
+    Hva er egentlig nytt med missions? Hvordan bør Norge forholde seg til missions slik de utformes i Horizon Europa? Hvilke spesifikke norske missions bør vi gripe fatt i?
+
+    Dette og mer til får du høre mer om på Forskningsrådets konferanse om kunnskapsgrunnlaget for forsknings- og innovasjonspolitikken i 2020, den 24. mars på Radisson Blu Plaza Hotell i Oslo.
+  date: 24.03.2020
+  time_start: "09:00"
+  time_end: "15:30"
+  type: Conference
+  link: https://www.forskningsradet.no/arrangementer/2020/missions-i-forsknings--og-innovasjonspolitikken--kunnskapsgrunnlagskonferansen-2020/
+
+- host: Forskningsparken
+  location: Forskningsparken
+  address: Gaustadalléen 21, Flora Lounge
+  name: Impact Breakfast
+  # description: ''
+  date: 25.03.2020
+  time_start: "08:30"
+  time_end: "10:00"
+  type: Breakfast seminar
+  link: https://www.forskningsparken.no/events/faste-arrangement-i-forskningsparken/impact-network/
+  free: true
+
+- host: The Factory
+  location: Gamle Deichman
+  address: 4 Arne Garborgs plass
+  name: OSLO INNOVATION WEEK 2020 EVENT ORGANIZER MEET UP
+  # description: ''
+  date: 25.03.2020
+  time_start: "12:30"
+  time_end: "16:00"
+  type: meetup
+  link: https://www.thefactory.no/events/2020/3/25/oslo-innovation-week-2020-event-organizer-meet-up
+
+- host: StartupLab
+  location: StartupLab
+  address: Gaustadalléen 21
+  name: Join a Startup VOL. 10
+  # description: ''
+  date: 25.03.2020
+  time_start: "17:30"
+  time_end: "21:00"
+  type: jobs
+  link: https://www.eventbrite.com/e/join-a-startup-vol-10-tickets-95787375619?fbclid=IwAR3ZFYjXX9xxh4FFeIL0q10UXzn3grVZc5uioSWgwQtX3iLn8nd4fzmTVws
+
+- host: Forskningsrådet
+  location: Forskningsrådet
+  address: Drammensvn 288
+  name: 'Informasjonsmøte i Oslo: 300 millioner til petroleumsrettet FOU'
+  # description: ''
+  date: 26.03.2020
+  time_start: "09:00"
+  time_end: "12:00"
+  type: Meeting
+  link: https://www.forskningsradet.no/arrangementer/2020/informasjonsmote-i-oslo-300-millioner-til-petroleumsrettet-fou/
+
+- host: Innovasjon Norge
+  location: Innovasjon Norge
+  address: Radisson Blu Scandinavia, Holbergs plass
+  name: Eksportkonferansen 2020
+  # description: ''
+  date: 26.03.2020
+  time_start: "12:00"
+  time_end: "16:00"
+  type: Seminar
+  link: https://www.innovasjonnorge.no/no/om/kontorer-i-Norge/oslo-akershus-ostfold/arrangementer/
+  free: true
+
+- host: Smart Innovation Norway & ITS Norway
+  location: Smart Innovation Norway
+  address: Ingeniørenes Hus Møtesenter
+  name: Anvendt AI og prediktivt vedlikehold
+  # description: ''
+  date: 27.03.2020
+  time_start: "09:00"
+  time_end: "10:30"
+  type: Breakfast Seminar
+  link: https://www.facebook.com/events/864815743962103/
+
+- host: Oslo EdTech Cluster
+  location: Gyldendal Norske Forlag
+  address: Sehestedsgate 4, 0164 Oslo
+  name: Oslo EdTech Hackathon 2020
+  description: 'Vi ser etter deg som er genuint opptatt av å skape læringsløsninger
+    som virker og som kan bidra til at færre elever, studenter og arbeidstakere opplever
+    utenforskap. Vi lover deg et døgn med inspirasjon, kreativitet og nye bekjentskaper. '
+  date: 27.03.2020
+  date_end: 28.03.2020
+  time_start: "14:00"
+  time_end: "21:00"
+  type: Workshop
+  link: https://www.facebook.com/events/442848593003106/
+
+- host: Innovasjon Norge
+  location: Innovasjon Norge
+  address: Akersgata 13, 0158 Oslo
+  name: Pitching Tuesday
+  # description: ''
+  date: 31.03.2020
+  time_start: "09:00"
+  time_end: "11:30"
+  type: Pitching
+  link: https://www.innovasjonnorge.no/no/om/kontorer-i-Norge/oslo-akershus-ostfold/arrangementer/
+
+- host: Norway Health Tech
+  location: Norway Health Tech
+  address: Scandic Hotel Fornebu
+  name: Helseteknologikonferansen 2020
+  description: |-
+    I samarbeid mellom Tekna, Norwegian Smart Care Cluster og Norway Health Tech arrangeres Helseteknologikonferansen for 5. år på rad. Her samler vi dyktige profesjonelle fra helsesektoren og helsetjenesten, tankeledere, helseindustri, beslutningstakere og teknologer. Vi fokuserer på tema som er aktuelle og inspirerer til fortsatt felles innsats i feltet.  Dette er en nyskapende og viktig møteplass for alle som er interessert i implementering av ny helse- og velferdsteknologi.
+
+    Vi mener at innovasjon skjer best når helsevesenet kommer sammen med leverandørene – og når merverdi for bruker, pasient og helsepersonell står i sentrum. Her treffer du hele sektoren for interessante samtaler om nytenkning og problemløsning.
+  date: 31.03.2020
+  time_start: "08:30"
+  time_end: "17:00"
+  type: Conference
+  link: https://www.norwayhealthtech.com/event/helseteknologikonferansen-2020/
+
+
+
+
+
+
+
+
+
+
+# APRIL
+- host: The Factory
+  location: The Factory
+  address: 3 Nedre Vollgate
+  name: 'MEET THE PROPTECH BEAT: BREAKFAST SEMINAR'
+  # description: ''
+  date: 01.04.2020
+  time_start: "12:30"
+  time_end: "16:00"
+  type: afterwork
+  link: https://www.thefactory.no/events/2020/4/15/meet-the-proptech-beat-breakfast-seminar
+
+- host: StartupLab
+  location: StartupLab
+  address: Gaustadalléen 21
+  name: Meet Corporates Oslo
+  # description: ''
+  date: 02.04.2020
+  time_start: "09:00"
+  time_end: "12:30"
+  type: networking
+  link: https://www.facebook.com/events/546576449550898/
+
+- host: The Ocean Opportunity Lab
+  location: The Ocean Opportunity Lab
+  address: Kirsten Flaggstad Plass, 0150, Oslo
+  name: TOOL Naming Ceremony feat. Elisabeth Grieg & Christine Spiten
+  # description: ''
+  date: 02.04.2020
+  time_start: "15:30"
+  time_end: "23:00"
+  type: Social
+  link: https://www.facebook.com/events/520749625442137/
+
+- host: Forskningsparken
+  location: Forskningsparken
+  address: Gaustadalléen 21
+  name: First Friday Coffee
+  # description: ''
+  date: 03.04.2020
+  time_start: "08:30"
+  time_end: "09:00"
+  type: Pitching
+  link: https://www.forskningsparken.no/events/Eventkalender/
+  free: true
+
+- host: The Factory
+  location: The Factory
+  address: 3 Nedre Vollgate
+  name: FINTECH AFTERWORK - MEET THE INDUSTRY PLAYERS
+  # description: ''
+  date: 15.04.2020
+  time_start: "08.30"
+  time_end: "10:00"
+  type: afterwork
+  link: https://www.eventbrite.co.uk/e/fintech-afterwork-meet-the-industry-players-tickets-96918358419?aff=ebdssbdestsearch
+
+- host: Forskningsrådet
+  location: Forskningsrådet
+  address: Norges forskningsråd, Lysaker
+  name: Horisont 2020 - Prosjektutvikling og søknadsstøtte 1
+  # description: ''
+  date: 21.04.2020
+  date_end: 22.04.2020
+  time_start: "10:00"
+  time_end: "14:15"
+  type: Kurs
+  link: https://www.forskningsradet.no/arrangementer/2020/horisont-2020---prosjektutvikling-og-soknadsstotte-1222/
+
+- host: Innovasjon Norge
+  location: Innovasjon Norge
+  address: Akersgata 13, 0158 Oslo
+  name: Middle East – Market report & Export program
+  # description: ''
+  date: 22.04.2020
+  time_start: "12:00"
+  time_end: "15:00"
+  type: Seminar
+  link: https://www.innovasjonnorge.no/no/om/kontorer-i-Norge/oslo-akershus-ostfold/arrangementer/
+  free: true
+
+- host: The Factory
+  location: The Factory
+  address: 3 Nedre Vollgate
+  name: 'FINTECH AFTERWORK: MEET FINNISH & NORWEGIAN FINTECHS'
+  description: In collaboration with Business Finland - come and meet fintech startups
+    from Finland and Norway. More details coming soon!
+  date: 22.04.2020
+  time_start: "18:00"
+  time_end: "20:00"
+  type: afterwork
+  link: https://www.eventbrite.co.uk/e/fintech-afterwork-meet-finnish-norwegian-fintechs-tickets-97060607891?aff=ebdssbeac
+
+- host: Innovasjon Norge
+  location: Innovasjon Norge
+  address: Akersgata 13, 0158 Oslo
+  name: Nordic EV Summit
+  # description: ''
+  date: 23.04.2020
+  date_end: 24.04.2020
+  time_start: "09:00"
+  time_end: "16:00"
+  type: Seminar
+  link: https://www.innovasjonnorge.no/no/om/kontorer-i-Norge/oslo-akershus-ostfold/arrangementer/
+  free: true  
+
+- host: The Ocean Opportunity Lab
+  location: The Ocean Opportunity Lab
+  address: The Ocean Opportunity Lab, Operastranda
+  name: 'Oslo Blue New Deal: Fjorden 2.0'
+  # description: ''
+  date: 23.04.2020
+  time_start: "10:00"
+  time_end: "18:00"
+  type: Seminar
+  link: https://www.facebook.com/events/692335211302556/
+
+- host: Forskningsrådet
+  location: Forskningsrådet
+  address: Deichman Bjørvika
+  name: Finale og prisutdeling i Unge forskere 2020
+  description: "Hvem blir årets unge forskere? Møt finalister og se prosjektene deres
+    under finalearrangementet i nye Deichman i Bjørvika i Oslo.\n\nAlle finalistene
+    skal stille ut prosjektene sine og vise fram hva de har forsket på. Etter utstillingen
+    deles prisene ut i auditoriet av forsknings- og høyere utdanningsminister Henrik
+    Asheim. "
+  date: 24.04.2020
+  time_start: "11:00"
+  time_end: "15:00"
+  type: Event
+  link: https://www.forskningsradet.no/unge-forskere/arrangementer/finale-2020/
+
+- host: Norway Health Tech
+  location: Norway Health Tech
+  address: Union Scene, Drammen
+  name: "#HelseViken2020 – Demo Dag i Drammen!"
+  description: |-
+    #HelseViken2020 er konferansen i brytningen mellom digitalisering, innovasjon og kompetanse innen helsefeltet
+
+    Vi setter fokus på pasientforløp mot en fremtidig, sømløs felles helsetjeneste. Vi inviterer til faglig program med aktuelle innledere fra helseinstitusjonenes toppledelse, Expo av relevante leverandører, og sesjon med 1-til-1-samtaler for nettverksutvikling.
+  date: 28.04.2020
+  time_start: "09:00"
+  time_end: "15:00"
+  type: Demo
+  link: https://www.norwayhealthtech.com/nb/event/helseviken2020-digitalization-innovation-and-competence-in-the-healthsector/
+
+
+# MAY
+- host: Innovasjon Norge
+  location: Innovasjon Norge
+  address: Akersgata 13, 0158 Oslo
+  name: Internasjonal markedsutvikling - workshop
+  # description: ''
+  date: 05.05.2020
+  time_start: "08:30"
+  time_end: "14:00"
+  type: Seminar
+  link: https://www.innovasjonnorge.no/no/om/kontorer-i-Norge/oslo-akershus-ostfold/arrangementer/
+  free: true
+
+- host: Forskningsparken
+  location: Forskningsparken
+  address: Gaustadalléen 21
+  name: First Friday Coffee
+  # description: ''
+  date: 05.05.2020
+  time_start: "08:30"
+  time_end: "09:30"
+  type: Pitching
+  link: https://www.forskningsparken.no/events/Eventkalender/
+  free: true  
+
+- host: Angel Challenge
+  location: 657 Oslo
+  address: Fredensborgveien 24 D
+  name: Fundraising For Startups - Creative Industries
+  # description: ''
+  date: 06.05.2020
+  time_start: "08:30"
+  time_end: "16:30"
+  type: Seminar
+  link: https://www.facebook.com/events/2723425094383208/
+
+- host: Angel Challenge
+  location: 657 Oslo
+  address: Fredensborgveien 24 D
+  name: Fundraising For Startups - Creative Industries
+  # description: ''
+  date: 07.05.2020
+  time_start: "08:30"
+  time_end: "16:30"
+  type: Seminar
+  link: https://www.facebook.com/events/2723425094383208/
+
+- host: LØPE
+  location: 657 Oslo
+  address: Fredensborgveien 24 D
+  name: Design Sprint Bootcamp
+  # description: ''
+  date: 12.05.2020
+  date_end: 13.05.2020
+  time_start: "09:00"
+  time_end: "16:00"
+  type: Seminar
+  link: https://www.facebook.com/events/591343545055757/
+
+- host: Norway Health Tech
+  location: Norway Health Tech
+  address: Marmorsalen, Sentralen, Oslo
+  name: BigMed Conference 2020
+  description: Join the BigMed conference to learn about the current barriers to implementing
+    precision medicine in clinical practice, and how we can overcome these. Meet the
+    country’s most renounced experts in the field and learn about their research.
+  date: 26.05.2020
+  time_start: "08:00"
+  time_end: "17:00"
+  type: Conference
+  link: https://www.norwayhealthtech.com/event/bigmed-conference-2020/
+
+# JUNE
+- host: StartupLab
+  location: StartupLab
+  address: Gaustadalléen 21
+  name: Summer Pitch Party & Demo Day
+  # description: ''
+  date: 18.06.2020
+  time_start: "17:00"
+  time_end: "22:00"
+  type: Social
+  link: https://www.forskningsparken.no/events/Eventkalender/
+
+- host: Startup Extreme
+  location: Startup Extreme
+  address: Voss
+  name: Startup Extreme
+  # description: ''
+  date: 22.06.2020
+  date_end: 23.06.2020
+  time_start: "09:00"
+  time_end: "18:00"
+  type: Festival
+  link: https://www.startupextreme.co/
+  free: true
+
+
+
+
+

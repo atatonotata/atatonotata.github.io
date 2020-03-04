@@ -1,0 +1,46 @@
+---
+layout: page
+title: Oslo Events Calendar
+permalink: /calendar/
+---
+
+<div class="events_calendar">
+  {% for c in site.data.calendar %}
+    <div class="event">
+    
+      <div class="event_date">
+        <span>{{ c.date }}</span>
+        <span> @ </span>
+        <span>{{ c.time_start}}</span>
+        <span> - </span>
+        {% if c.date_end %}
+          <span>{{ c.date_end }}</span>
+        {% endif %}
+        <span> {{ c.time_end }}</span>
+      </div>
+      <a href="{{ c.link }}" target="_blank">
+        <div class="event_title">{{ c.name }}</div>
+      </a>
+      
+      <div class="event_host">
+        <div class="gray_50">Host:</div>
+        <div>{{ c.host }}</div>
+      </div>
+
+      <div class="event_host">
+        <div class="gray_50">Location:</div>
+        <div>{{ c.location }} - {{ c.address }}</div>
+      </div>
+
+      <!-- <div class="event_location"><span class="gray_50">Location:</span> {{ c.location }} - {{ c.address }}</div> -->
+
+      {% if c.description %}
+        <div class="event_description">{{ c.description }}</div>
+      {% endif %}
+
+      <!-- <div class="event_location">{{ c.location }} // {{ c.address }}</div> -->
+    
+    </div>
+  {% endfor %}
+</div>
+
